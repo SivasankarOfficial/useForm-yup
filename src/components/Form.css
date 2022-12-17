@@ -1,0 +1,61 @@
+.formvalidation{
+
+    background-color: skyblue;
+    width: fit-content;
+    padding: 3em;
+    position: relative;
+    left: 30em;
+    top: 1em;
+    border-radius: 2em;
+    box-shadow: 5px 10px 40px 20px rgb(72, 194, 243) ;
+}
+.input{
+    outline: none;
+    padding: 0.5em;
+    color: black;
+    width: 25em;
+  
+    
+    border-radius: 5px;
+    border-style: none;
+}
+#submit{
+   
+   display: flex;
+   justify-content: center;
+   position: relative;
+   left: 5em;
+   background-image: linear-gradient(rgb(78, 157, 189),rgb(33, 185, 245)) ;
+   border-style: none;
+   border-radius: 5px;
+   width:em;
+   padding: 10px 60px;
+}
+body{
+    background-color: skyblue
+}
+.chkbox{
+
+    display: flex;
+    
+}
+
+
+
+
+/* .Form{
+    text-align: center;
+    margin-top: 10em;
+    padding: 5em;
+    background-color: aliceblue;
+    box-shadow: 5px 5px 40px 15px  rgb(145, 141, 141);
+    width: fit-content;
+   
+
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+
+ */

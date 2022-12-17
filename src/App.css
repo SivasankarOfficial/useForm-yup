@@ -1,0 +1,13 @@
+/* #map{
+    display: flex;
+    justify-content: space-between;
+} */
+p{
+    color: red;
+    font-size: 0.7em;
+    font-style: oblique;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+}
